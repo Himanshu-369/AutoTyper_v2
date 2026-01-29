@@ -1,17 +1,13 @@
 # AutoTyper_v2
 This reposity shows multiple version of the AutoTyper, changed the classic theme to modern and minimalistic altervatives.
 
----
----
-# 🤖 Humanized AutoTyper
-
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 > Automate your typing with realistic human behavior. Typos, hesitation, and fatigue included.
 
-**Humanized AutoTyper** is a sophisticated automation tool written in Python that goes beyond standard text injection. It simulates the nuances of human typing, including variable WPM, fatigue, backspacing, and "thinking" pauses. Perfect for UI testing, generating realistic user data, or pranking your friends.
+**AutoTyper_v2** is a sophisticated automation tool written in Python that goes beyond standard text injection. It simulates the nuances of human typing, including variable WPM, fatigue, backspacing, and "thinking" pauses. Perfect for UI testing, generating realistic user data, or pranking your friends.
 
 ---
 
