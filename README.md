@@ -57,7 +57,6 @@ This project showcases an iterative development process featuring two distinct G
 |:---:|:---:|:---:|
 |<img width="502" height="824" alt="autotyper_v3" src="https://github.com/user-attachments/assets/fb1e9725-8aac-4f91-afdf-c0939287b7ef" />|<img width="453" height="788" alt="autotyper_v4" src="https://github.com/user-attachments/assets/3d9318cd-dc7c-4d12-84e5-e02feb0f8a5f" />|<img width="453" height="832" alt="autotyper_v5" src="https://github.com/user-attachments/assets/9f522bc4-e277-48f7-8480-4309834853fe" />|
 
----
 
 ## 🚀 Quick Start
 
