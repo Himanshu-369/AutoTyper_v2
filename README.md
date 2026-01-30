@@ -56,7 +56,15 @@ This project showcases an iterative development process featuring two distinct G
 |autotyper_v3.py|autotyper_v4.py|autotyper_v5.py|
 |:---:|:---:|:---:|
 |<img width="502" height="824" alt="autotyper_v3" src="https://github.com/user-attachments/assets/fb1e9725-8aac-4f91-afdf-c0939287b7ef" />|<img width="453" height="788" alt="autotyper_v4" src="https://github.com/user-attachments/assets/3d9318cd-dc7c-4d12-84e5-e02feb0f8a5f" />|<img width="453" height="832" alt="autotyper_v5" src="https://github.com/user-attachments/assets/9f522bc4-e277-48f7-8480-4309834853fe" />|
+---
 
+> *PyQt6 Minimalistic & Modern GUI (with responsive GUI and Fixes)*
+
+> "this version is most practical for the usage 😅"
+
+|autotyper_v6.py|
+|:---:|
+|<img width="75%" height="75%" alt="autotyper_v6" src="https://github.com/user-attachments/assets/e081423a-d4fc-4847-be5c-12ba5736a515" />|
 
 ## 🚀 Quick Start
 
@@ -78,7 +86,7 @@ This project showcases an iterative development process featuring two distinct G
     pip install customtkinter pyautogui
     ```
 
-    **Option B: For the PyQt6 versions (`autotyper_v2_1.py` through `autotyper_v5.py`)**
+    **Option B: For the PyQt6 versions (`autotyper_v2_1.py` through `autotyper_v6.py`)**
     ```bash
     pip install PyQt6 pyautogui
     ```
@@ -92,7 +100,7 @@ Simply run the specific script you prefer:
 python autotyper_v1.py
 
 # Run the latest PyQt6 version
-python autotyper_v5.py
+python autotyper_v6.py
 ```
 
 ---
@@ -139,7 +147,8 @@ This repository serves as a history of development, showcasing the transition fr
 ├── autotyper_v2_3.py       # Enhanced grouping and modular widgets.
 ├── autotyper_v3.py         # Introduction of custom reusable components.
 ├── autotyper_v4.py         # Advanced styling and aesthetics.
-├── autotyper_v5.py         # Latest version with refined logic and UI.
+├── autotyper_v5.py         # Minimal and Modern UI with refined logic and UI.
+├── autotyper_v6.py         # Latest version with Modern GUI with all the features & Responsive Modern GUI.
 └── README.md           # This file.
 ```
 
